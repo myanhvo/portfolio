@@ -12,11 +12,11 @@ showcase:
   My tech stack includes Python (NumPy, Pandas, Matplotlib), R (Shiny, ggplot2, dplyr), SAS (marcos),
   Microsoft Office, OS (Windows, MacOS, Linux)"
   image:
-    x: "img/who-am-i/photo.jpeg"
-    _2x: "img/who-am-i/photo.jpeg"
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
   imageMobile:
-    x: "img/who-am-i/photo.jpeg"
-    _2x: "img/who-am-i/photo.jpeg"
+    x: "showcase/data-science.gif"
+    _2x: "showcase/data-science.gif"
 
   button:
     icon: "icon-profile-fill"
