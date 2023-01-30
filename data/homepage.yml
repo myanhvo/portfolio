@@ -138,8 +138,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://myanhvo.shinyapps.io/Digest-Of-Education-Statistics-App/"
       image:
-        x: "img/works/work1.png"
-        _2x: "img/works/work1.png"
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true
 
     - title: "Spotify Predictions"
@@ -150,8 +150,8 @@ client_and_work:
         btnText: "GitHub "
         URL: "https://github.com/myanhvo/SpotifyPredictions"
       image:
-        x: "img/works/work2.png"
-        _2x: "img/works/work2.png"
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: false
       
     - title: "Learning from compressed images"
@@ -165,8 +165,8 @@ used reordering methods to highlight the correct emergence of patterns, and eval
         btnText: "Paper"
         URL: "https://drive.google.com/file/u/1/d/1kYpwZber6qyilh17QVeAKu097JgXJQHT/view?usp=sharing"
       image:
-        x: "img/works/work3.png"
-        _2x: "img/works/work3.png"
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true     
 
     - title: "Movies Recommendation"
@@ -178,8 +178,8 @@ year released). User guide on GitHub."
         btnText: "GitHub"
         URL: "https://github.com/myanhvo/MoviesandVideos"
       image:
-        x: "img/works/work4.png"
-        _2x: "img/works/work4.png"
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: false
     
 
@@ -218,8 +218,8 @@ contact:
   title: "Contact Anh"
     
   image:
-    x: "img/who-am-i/project_resized.jpg"
-    _2x: "img/who-am-i/project_resized.jpg"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
     
   button:
     icon: "icon-mail-fill"
